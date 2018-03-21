@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/csvoss
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://csvoss.github.io
+  * I am csvoss (https://keybase.io/csvoss) on keybase.
+  * I have a public key ASBlH_4I8Ebo03P7H_vrV-Iu_C8SmOdGgeRNy8Ytd4nCWwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101af220d955a7a301e07be1c350c5211b1769ccbb81986783abdbd0a678f96ac210a",
+            "host": "keybase.io",
+            "kid": "0120651ffe08f046e8d373fb1ffbeb57e22efc2f1298e74681e44dcbc62d7789c25b0a",
+            "uid": "eb84f990717204735bcc70c45a981d19",
+            "username": "csvoss"
+        },
+        "service": {
+            "hostname": "csvoss.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1478216761,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1478216710,
+        "hash": "f6fda51b67a10f423b2f853857c2c35206a4b9f6c4525b40f527d216d60b903b1da66da44d4cd86f6fa5d94b0486019d83cc3487258779c76c8087f740796c14",
+        "seqno": 699661
+    },
+    "prev": "0f908c14d6df4643da34f6a7cfe075e7a03aa00d8a3263ca05f16a23028bf56c",
+    "seqno": 19,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZR/+CPBG6NNz+x/761fiLvwvEpjnRoHkTcvGLXeJwlsKp3BheWxvYWTFAvd7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYWYyMjBkOTU1YTdhMzAxZTA3YmUxYzM1MGM1MjExYjE3NjljY2JiODE5ODY3ODNhYmRiZDBhNjc4Zjk2YWMyMTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNjUxZmZlMDhmMDQ2ZThkMzczZmIxZmZiZWI1N2UyMmVmYzJmMTI5OGU3NDY4MWU0NGRjYmM2MmQ3Nzg5YzI1YjBhIiwidWlkIjoiZWI4NGY5OTA3MTcyMDQ3MzViY2M3MGM0NWE5ODFkMTkiLCJ1c2VybmFtZSI6ImNzdm9zcyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiY3N2b3NzLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDc4MjE2NzYxLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NzgyMTY3MTAsImhhc2giOiJmNmZkYTUxYjY3YTEwZjQyM2IyZjg1Mzg1N2MyYzM1MjA2YTRiOWY2YzQ1MjViNDBmNTI3ZDIxNmQ2MGI5MDNiMWRhNjZkYTQ0ZDRjZDg2ZjZmYTVkOTRiMDQ4NjAxOWQ4M2NjMzQ4NzI1ODc3OWM3NmM4MDg3Zjc0MDc5NmMxNCIsInNlcW5vIjo2OTk2NjF9LCJwcmV2IjoiMGY5MDhjMTRkNmRmNDY0M2RhMzRmNmE3Y2ZlMDc1ZTdhMDNhYTAwZDhhMzI2M2NhMDVmMTZhMjMwMjhiZjU2YyIsInNlcW5vIjoxOSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAi2PJe4wUAeOdZ5xZluYnlRvgsdUWZhPbgmO7uu7UZX63JC9SvTZJ7N0Oa+ffxkLmEt06CKxsmUnXOGvGZARgIqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg08MaIR3z4dn2bj10eFsZfSrb0/oSSvwH9ju+c74vc2+jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/csvoss
+
+==================================================================

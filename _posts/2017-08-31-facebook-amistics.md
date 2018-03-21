@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Technologies supporting my Facebook amistics"
+date:   2017-08-31
+categories: projects
+hieroglyph: "&#x13011;"
+---
+> On the social front it was a question of Amistics, which was a term that had been coined ages ago [...] to talk about the choices that different cultures made as to which technologies they would, and would not, make part of their lives. The word went all the way back to the Amish people of pre-Zero America, who had chosen to use certain modern technologies, such as roller skates, but not others, such as internal combustion engines. All cultures did this, frequently without being consciously aware that they had made collective choices.
+
+<div style="text-align: right">&mdash;Neal Stephenson, in <i>Seveneves</i></div><br/>
+
+
+Sometimes, I use Facebook more than I prefer to use Facebook. When I'm not paying particularly close attention to what I'm doing, I might find myself on Facebook when I would rather have been doing other stuff. The fact that Facebook has this effect on me makes complete sense to me; the Facebook news feed seems to me to be a textbook example of the concept of a [variable ratio rewards schedule](https://en.wikipedia.org/wiki/Reinforcement#Intermittent_reinforcement.3B_schedules). As I scroll down the news feed I'm rewarded with some new post or photo or link; each one is random in how much I enjoy it. Randomized rewards like these are the most prone to causing addiction: think [slot machines](https://www.bloomberg.com/news/articles/2016-09-27/hooked-aussies-play-a-losing-game-as-slot-machines-get-smarter), think [internet gaming](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3832462/). Variable ratio rewards schedules cause users to repeat the addictive behavior by hooking into the dopamine system, exactly as opioids do. Your mileage may vary, but I feel a huge amount of this effect when using Facebook as she is designed to be used.
+
+I don't appreciate my motivation system being hacked in this way, but Facebook is a technological tool; it is *my* responsibility to ensure that this tool is a force for good in my own life.
+
+I've tried a motley collection of Facebook-limiting software: [Freedom](https://freedom.to/), [Todobook](https://chrome.google.com/webstore/detail/todobook/ihbejplhkeifejcpijadinaicidddbde?hl=en), [Rescuetime's](https://www.rescuetime.com/dashboard) "Get Focused" feature, [News Feed Eradicator](https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en). Inevitably, though, each one doesn't work forever. There inevitably comes a time when I decide that there's something important I need Facebook for, whereupon I disable the software to do that thing -- *and at that point I have utterly lost*, because I have trained myself that I am allowed to disable the software. The habit builds and builds, and soon the software does nothing at all. At which point I move on to another software, and am again protected... for a while.
+
+But no longer! On August 13 I logged out of Facebook, and promised myself that I would not log in to Facebook again until September 1. Today is August 31, and I kept my promise to myself. Additionally, I felt hardly any fear-of-missing-out this entire time. I guess I'll see tomorrow whether there was anything I regretted not seeing earlier... but if not, this was a success!
+
+The reason for this success is that I have finally factored out nearly every piece of Facebook that I need, every major technical problem that I use Facebook for in my life. I rely on Facebook as a tool for these things: (1) messages from friends, (2) hearing about events, (3) keeping up with the pulse of news and conversation, and (4) looking up the occasional piece of info.
+
+For (1), there's a simple solution: [Messenger](http://messenger.com/). I keep myself logged in on the browser, I keep the app on my phone. I have so far been extremely pleased with how Messenger does not seem to be trying to hack my attention.
+
+For (2), I have been using [Facebook Event Calendar](http://eventcal.flown.io/) and it is fantastic. Really, it was the final missing piece in this ecosystem, and the primary reason I wanted to write this blog post. Whenever someone invites me to any event, it shows up on my calendar; I can see the descriptions and everything, without logging in. Highly recommended.
+
+For (3), I don't actually have a solution, but it turns out that I can live without it. I just haven't kept up as much with the pulse of news and conversation this month, and I think this is mostly okay. I ended up hearing about some interesting articles to read through having conversations with people, and it worked out. Also, RSS feeds for blogs I care about work well.
+
+For (4), occasionally I need to look something up on Facebook, such as someone's phone number or such as some clarifying information that's posted within an event. On those occasions, I've decided that the rule is that I must explain why I'm logging in to Facebook to any other human, who I then ask to make sure I log out later. Also, I keep [News Feed Eradicator](https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en) on as an additional redundancy in the system. In this way, I prevent myself from acquiring the habit of letting myself make exceptions for trivial matters, while allowing myself the ability to look up logistics when they will be useful.
+
+Finally, despite this ecosystem, sometimes I would find myself automatically opening a Facebook tab anyways (at which point, because I logged out, I'd be presented with the login page). I discovered that the correct thing to do here is to close the tab and to *mentally reward myself for noticing*, instead of making myself feel guilty about opening the tab. If the habit of noticing is rewarded with guilt, the habit dies; however, if the habit of noticing is rewarded with happiness, the habit stays. It's a little mindfulness-flavored.
+
+I am not going to necessarily keep up this fasting process consistently, but I think it had a lot of value: now I know that I'm not chained to being logged in to Facebook, which makes it easier for me to use Facebook mindfully on a day-to-day basis. Having had the fasting experiment, I now trust that I can keep hearing about events and keep connecting with friends even if I don't check the website itself every day. I can rest assured that I've solved many of the technical problems that had previously stood in between me using Facebook the way I want to be using Facebook, instead of the other way around.

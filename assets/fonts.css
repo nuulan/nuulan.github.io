@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "Aegyptus";
+  src: url("/fonts/Aegyptus.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Tengwar Annatar";
+  src: url("/fonts/TengwarAnnatar.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Tengwar Annatar";
+    src: url("/fonts/TengwarAnnatar-Bold.ttf");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Tengwar Annatar";
+    src: url("/fonts/TengwarAnnatar-Oblique.ttf");
+    font-style: italic, oblique;
+}
+@font-face {
+    font-family: "Tengwar Annatar";
+    src: url("/fonts/TengwarAnnatar-BoldOblique.ttf");
+    font-weight: bold;
+    font-style: italic, oblique;
+}
+
+.tengwar {
+  font-family: "Tengwar Annatar", sans-serif;
+}
+
+.hieroglyph {
+  font-family: "Aegyptus", sans-serif;
+  float:left;
+  font-size: 30pt;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  margin-right: 10px;
+}
